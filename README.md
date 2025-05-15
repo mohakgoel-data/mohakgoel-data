@@ -16,10 +16,10 @@
 
 ### 💡 Projects You'll Find Here
 - Beginner Python projects 🐍
-- Data manipulation and visualization notebooks 📊
+- Data manipulation and Data driven projects📊
 - Step-by-step progress as I grow toward data engineering
 
 ---
 
-📫 Let's connect on [LinkedIn] ( profile upcoming )  
+📫 Let's connect on [LinkedIn] www.linkedin.com/in/mohak-goel-data  
 🌱 I'm open to collaboration, feedback, and guidance!
